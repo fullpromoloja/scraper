@@ -2,7 +2,7 @@
 *.xlsx
 *.xls
 
-# Ignorar o arquivo de cookies com a sessão de login (segurança)
+# Ignorar arquivos de cookies/sessão
 cookies.json
 
 # Ignorar credenciais e variáveis de ambiente
