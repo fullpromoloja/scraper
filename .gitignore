@@ -1,0 +1,22 @@
+# Ignorar todas as planilhas Excel geradas pelo scraper
+*.xlsx
+*.xls
+
+# Ignorar o arquivo de cookies com a sessão de login (segurança)
+cookies.json
+
+# Ignorar credenciais e variáveis de ambiente
+.env
+
+# Ignorar arquivos temporários/cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar pastas de ambiente virtual (se você usa venv)
+venv/
+.venv/
+env/
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
